@@ -3,7 +3,7 @@
 ![Table Preview](https://vpuniverse.com/screenshots/monthly_2022_08/20220826_211114.jpg.9787604ac65e511b59f3ab641e7b222a.jpg)
 
 Authors: [merlinrtp](https://vpuniverse.com/profile/49555-merlinrtp/)  
-Version: 1.0.7  
+Version: 1.7  
 Download: [VP Universe](https://vpuniverse.com/files/file/18909-big-trouble-in-little-china-with-dof-nfozzy-scorbit/)
 
 DirectB2S
